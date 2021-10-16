@@ -13,3 +13,12 @@ I have used Python wuth the following Library to create this App.
 * en_core_web_sm --- python -m spacy download en_core_web_sm
 
 ## here is the url to the given app - https://ner-text-wiki.herokuapp.com/
+
+
+# -- So How would you get this project in your own system :
+## Here is what you can Do get this repository in your own system
+
+  * using git-desktop you can pull this repository in your own system.
+  * now, you must have install all the requirement I have mentioned above.
+  * then simple just hit streamlit run app.py 
+  * and boom this is your 👋👋👋
